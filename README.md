@@ -1,2 +1,6 @@
 # Road-Extraction-from-Satellite-Images
-Extracting Roads from Satellite generated images
+An Efficacious and Sturdy Technique  
+
+With the increasing population in the world, we need proper road map to reduce the efforts required in planning. Urban planning is an important part and its need is very high. Extracting road information is therefore is of great significance and thus can be very useful for urban planning. In this paper, an unmanned approach for road extraction is proposed which focuses on extracting roads and its component using a database from satellite images. Extracting roads can be very useful as the extracted roads can be used in various applications such as for delivery of goods using robots, urban planning, navigation systems, enhanced efficiency of map generation, etc. Also, the Geographical information system (GIS) database can be updated in which road information is an important part.  
+
+**In this method**, The image is first pre-processed and then converted to scalar image for ease of implementation and the signal-to-noise ratio (SNR) is computed as one of the performance metric. The performance of algorithm is evaluated for satellite images. The experiment results proved that this method effectively reduces the noise from images and achieves accurate road extraction from the general images.
